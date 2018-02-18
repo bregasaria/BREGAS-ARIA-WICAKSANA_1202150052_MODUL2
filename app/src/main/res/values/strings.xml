@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BREGAS ARIA WICAKSANA_1202150052_MODUL2</string>
+    <string name="date">"Tanggal: "</string>
+    <string name="date_picker">datePicker</string>
+    <string name="time_picker">timePicker</string>
+    <string name="time">"Waktu: "</string>
+
+    <string-array name="labels_array">
+
+        <item>Meja 1</item>
+
+        <item>Meja 2</item>
+
+        <item>Meja 3</item>
+
+        <item>Meja 4</item>
+
+        <item>Meja 5</item>
+
+
+    </string-array>
+</resources>
